@@ -1,1 +1,1 @@
-this is a second markdown document
+this is a second markdown document. I want to learn more on how to use git and github.
